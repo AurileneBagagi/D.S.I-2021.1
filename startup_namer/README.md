@@ -1,12 +1,14 @@
 # startup_namer
 
-A new Flutter project.
+Aplicativo criado por meio do codelab disponibilizado pelo professor
 
-## Getting Started
+## Startup Name Generator
 
-This project is a starting point for a Flutter application.
+o tópico 1 faz parte de um conjuntos de um aplicativo maior para a disciplina de DSI do curso de BSI da UFRPE.
 
-A few resources to get you started if this is your first Flutter project:
+o "Startup Name Generator" é um aplicativo basico que gere nomes aleatorio para startups por meio de uma biblioteca e um listview
+
+A few resources to get you started if this is your first Flutter project: (esses links abaixo são frações de toda a documentação do flutter)
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
