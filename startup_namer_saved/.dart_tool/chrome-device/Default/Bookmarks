@@ -1,0 +1,54 @@
+{
+   "checksum": "54291e21344d2c6cf7f36b4fa288d236",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13290108707273827",
+            "guid": "bc0460ba-b04e-472d-9fbd-e6e58f7b4544",
+            "id": "6",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/"
+         }, {
+            "date_added": "13290108707254634",
+            "guid": "3ea2b369-ec5d-4a66-b1a7-391e761b3266",
+            "id": "5",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/"
+         } ],
+         "date_added": "13290108701858000",
+         "date_modified": "13291088988066441",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13290108701858007",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13290108701858009",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
